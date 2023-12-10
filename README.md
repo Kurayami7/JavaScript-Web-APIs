@@ -7,13 +7,11 @@ A collection of JavaScript API-based projects showcasing diverse functionalities
 
 Dive into an interactive Country Guide app using HTML, CSS, and JavaScript. Explore countries, gather information, and witness a seamless integration of APIs.
 Country Guide App Details
-
+#### Live Demo:
 
 ### Pokemon Card Generator
 
 Unleash the creativity with a Pokemon Card Generator built in JavaScript. Craft unique Pokemon cards and experience the fun of creating your own Pokemon universe.
-Pokemon Card Generator Details
-
 #### Live Demo:
 
 ### Recipe App With Javascript | MealDB API | HTML, CSS & Javascript
