@@ -12,7 +12,7 @@ Country Guide App Details
 ### Pokemon Card Generator
 
 Unleash the creativity with a Pokemon Card Generator built in JavaScript. Craft unique Pokemon cards and experience the fun of creating your own Pokemon universe.
-#### Live Demo:
+#### Live Demo: https://kurayami7.github.io/JavaScript-Web-APIs/Pokemon%20Card%20Generator%20-%20API/
 
 ### Recipe App With Javascript | MealDB API | HTML, CSS & Javascript
 
