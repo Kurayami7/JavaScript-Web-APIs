@@ -7,7 +7,7 @@ A collection of JavaScript API-based projects showcasing diverse functionalities
 
 Dive into an interactive Country Guide app using HTML, CSS, and JavaScript. Explore countries, gather information, and witness a seamless integration of APIs.
 Country Guide App Details
-#### Live Demo:
+#### Live Demo: https://kurayami7.github.io/JavaScript-Web-APIs/Country%20Info%20API/
 
 ### Pokemon Card Generator
 
