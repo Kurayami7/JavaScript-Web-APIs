@@ -24,12 +24,12 @@ Recipe App Details
 
 Immerse yourself in the world of cinema with a Movie Guide App crafted using HTML, CSS, and JavaScript. Explore movies, get details, and enhance your movie-watching experience.
 Movie Guide App Details
-#### Live Demo:
+#### Live Demo: https://kurayami7.github.io/JavaScript-Web-APIs/Movie%20Guide%20API/
 
 ### Tic Tac Toe Game With JavaScript
 
 Challenge your strategic skills with a classic Tic Tac Toe Game. Built with HTML, CSS, and JavaScript, this game provides a delightful and competitive experience.
-#### Live Demo:
+#### Live Demo: 
 
 ### Weather App API with JavaScript
 
