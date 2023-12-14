@@ -29,7 +29,7 @@ Movie Guide App Details
 ### Tic Tac Toe Game With JavaScript
 
 Challenge your strategic skills with a classic Tic Tac Toe Game. Built with HTML, CSS, and JavaScript, this game provides a delightful and competitive experience.
-#### Live Demo: 
+#### Live Demo: https://kurayami7.github.io/JavaScript-Web-APIs/Tic%20Tac%20Toe/
 
 ### Weather App API with JavaScript
 
