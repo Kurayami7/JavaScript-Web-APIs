@@ -35,7 +35,9 @@ Challenge your strategic skills with a classic Tic Tac Toe Game. Built with HTML
 
 Stay informed about the weather with a Weather App powered by JavaScript. Utilizing APIs, this app provides real-time weather updates and forecasts.
 #### Live Demo:
-tbr
+https://kurayami7.github.io/JavaScript-Web-APIs/Marvel%20Movie%20API/
+
+
 
 ### Marvel App API in JavaScript
 
