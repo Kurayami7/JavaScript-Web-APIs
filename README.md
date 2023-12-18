@@ -30,6 +30,7 @@ Recipe App Details
 Immerse yourself in the world of cinema with a Movie Guide App crafted using HTML, CSS, and JavaScript. Explore movies, get details, and enhance your movie-watching experience.
 Movie Guide App Details
 #### Live Demo: https://kurayami7.github.io/JavaScript-Web-APIs/Movie%20Guide%20API/
+#### Video Demo:
 
 ### Tic Tac Toe Game With JavaScript
 
