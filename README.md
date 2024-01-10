@@ -9,6 +9,8 @@ Dive into an interactive Country Guide app using HTML, CSS, and JavaScript. Expl
 Country Guide App Details
 #### Live Demo: https://kurayami7.github.io/JavaScript-Web-APIs/Country%20Info%20API/
 #### Video Demo:
+https://github.com/Kurayami7/JavaScript-Web-APIs/assets/124408792/e7ddfe47-2ae8-431f-81bb-a002fdc301c8
+
 
 
 ### Pokemon Card Generator
